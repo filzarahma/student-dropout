@@ -123,7 +123,7 @@ Sistem prediksi dropout mahasiswa yang telah dibuat menggunakan model Random For
    
    Aplikasi akan berjalan secara lokal dan akan otomatis terbuka di browser pada alamat `http://localhost:8501`.
 
-Aplikasi juga dapat diakses secara global di ...
+Aplikasi juga dapat diakses secara global di [https://student-prediction-admission.streamlit.app/](https://student-prediction-admission.streamlit.app/)
 
 ### 🧠 Cara Menggunakan Sistem Machine Learning
 1. **Masukkan Informasi Mahasiswa**
