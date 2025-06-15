@@ -82,7 +82,7 @@ Dashboard interaktif dibuat menggunakan Metabase dan berisi visualisasi data per
      Untuk Windows PowerShell, pastikan format path benar, atau gunakan `//c/metabase-data`):
 
      ```bash
-     docker run -d -p 3000:3000 --name attrition \
+     docker run -d -p 3000:3000 --name dropout \
        -v "$(pwd)/metabase.db.mv.db:/metabase.db/metabase.db.mv.db" \
        -e "MB_DB_FILE=/metabase.db/metabase.db.mv.db" \
        metabase/metabase
