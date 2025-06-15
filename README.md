@@ -37,9 +37,9 @@ Dashboard interaktif dibuat menggunakan Metabase dan berisi visualisasi data per
 3. Mengidentifikasi tren pembayaran biaya kuliah dan dampaknya terhadap status mahasiswa
 4. Melihat performa semester pertama sebagai indikator keberhasilan di masa mendatang
    
-![Dashboard 1](https://github.com/filzarahma/student-dropout/blob/main/filzrahma-dashboard/School%20Dashboard_page-0001.jpg)
+![Dashboard 1](https://github.com/filzarahma/student-dropout-prediction/blob/main/filzrahma-dashboard/School%20Dashboard_page-0001.jpg)
 
-![Dashboard 2](https://github.com/filzarahma/student-dropout/blob/main/filzrahma-dashboard/School%20Dashboard_page-0002.jpg)
+![Dashboard 2](https://github.com/filzarahma/student-dropout-prediction/blob/main/filzrahma-dashboard/School%20Dashboard_page-0002.jpg)
 
 * **Statistik Dropout:**
   * 1.421 dari 4.424 mahasiswa mengalami dropout (**32.12%**).
@@ -112,7 +112,7 @@ Sistem prediksi dropout mahasiswa yang telah dibuat menggunakan model Random For
 ### 🧪 Langkah-langkah Menjalankan Aplikasi
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/filzarahma/student-dropout.git
+   git clone https://github.com/filzarahma/student-dropout-prediction.git
    cd student-performance
    ```
 
