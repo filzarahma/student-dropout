@@ -112,7 +112,7 @@ Sistem prediksi dropout mahasiswa yang telah dibuat menggunakan model Random For
 ### 🧪 Langkah-langkah Menjalankan Aplikasi
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/student-performance-prediction.git
+   git clone https://github.com/filzarahma/student-dropout.git
    cd student-performance
    ```
 
