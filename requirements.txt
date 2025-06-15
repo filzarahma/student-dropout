@@ -1,0 +1,12 @@
+# Core packages with pinned versions for compatibility
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.6.1
+streamlit==1.45.1
+matplotlib==3.10.0
+seaborn==0.13.2
+plotly==6.0.1
+joblib==1.4.2
+sqlalchemy==2.0.39
+
+
